@@ -1,4 +1,4 @@
-# tumblr-bookmarklet
+# tumblr archive bookmarklet
 Speed up slow browsing on tumblr.
 
 Some tumblr pages take forever to load thanks to yahoo's over zealous scripting. Frustratingly, some sites won't load for me at all. The easy way around this is to browse the author's Archive. Unfortunately some themes don't include a link to the Archive.
