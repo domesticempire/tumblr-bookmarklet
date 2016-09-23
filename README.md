@@ -5,4 +5,5 @@ Some tumblr pages take forever to load thanks to yahoo's over zealous scripting.
 
 So I created this bookmarklet, which works for all tumblr sites. 
 
+```
 javascript:%20window.location%20=%20window.location.protocol%20+%20'//'%20+%20window.location.hostname%20+%20'/archive';
